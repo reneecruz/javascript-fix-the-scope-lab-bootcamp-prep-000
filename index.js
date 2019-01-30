@@ -33,7 +33,7 @@ var funkyFunction = function() {
 var theFunk = funkyFunction()
 
 function theFunk() {
-  return ('is'+ function)
+  return ('is FUNKY!')
 }
 
 
