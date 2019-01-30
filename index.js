@@ -35,7 +35,6 @@ function theFunk() {
 }
 var theFunk = funkyFunction()
 
-theFunk('is')
 
 
 
