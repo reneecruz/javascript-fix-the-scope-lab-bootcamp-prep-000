@@ -36,6 +36,8 @@ function theFunk() {
   return 'FUNKY!'
 }
 
+theFunk('is')
+
 
 
 
